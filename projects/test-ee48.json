@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "project": {
+    "name": "test",
+    "client": "test",
+    "reference": "test",
+    "revision": "A",
+    "drawnBy": "",
+    "date": "2026-10-03",
+    "notes": ""
+  },
+  "system": "TSG-F",
+  "form": "4b",
+  "entry": "top",
+  "depth": 600,
+  "height": 2000,
+  "incomer": {
+    "enabled": true,
+    "type": "MTZ2-16-4P-D"
+  },
+  "feeders": [
+    {
+      "id": "f1",
+      "tag": "F1",
+      "description": "Outgoing 1",
+      "frame": "630",
+      "rating": 630,
+      "poles": "4P",
+      "qty": 1
+    },
+    {
+      "id": "f2",
+      "tag": "F2",
+      "description": "Outgoing 2",
+      "frame": "630",
+      "rating": 400,
+      "poles": "3P",
+      "qty": 1
+    },
+    {
+      "id": "f3",
+      "tag": "F3",
+      "description": "Outgoing 3",
+      "frame": "250",
+      "rating": 250,
+      "poles": "4P",
+      "qty": 1
+    },
+    {
+      "id": "f4",
+      "tag": "F4",
+      "description": "Outgoing 4",
+      "frame": "250",
+      "rating": 160,
+      "poles": "3P",
+      "qty": 1
+    }
+  ]
+}

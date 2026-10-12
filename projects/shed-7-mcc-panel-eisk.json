@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "project": {
+    "name": "Shed-7 MCC Panel",
+    "client": "Khan Dairy",
+    "reference": "TEE/2601/J/R1",
+    "revision": "A",
+    "drawnBy": "Awais Ajmal",
+    "date": "2026-10-03",
+    "notes": ""
+  },
+  "system": "TSG-F",
+  "form": "2b",
+  "entry": "top",
+  "depth": 600,
+  "height": 2000,
+  "incomer": {
+    "enabled": false,
+    "type": "MTZ2-16-4P-D"
+  },
+  "feeders": [
+    {
+      "id": "fmusluzgx0",
+      "tag": "F1",
+      "description": "",
+      "frame": "250",
+      "rating": 100,
+      "poles": "3P",
+      "qty": 1
+    }
+  ]
+}
